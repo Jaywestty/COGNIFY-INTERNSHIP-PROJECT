@@ -11,3 +11,8 @@ My second task will be:
 - Calculate basic statistical measures (mean,median, standard deviation, etc.) for numerical columns.
 - Explore the distribution of categorical variables like "Country Code","City", and "Cuisines".
 - Identify the top cuisines and cities with the highest number of restaurants.
+
+My third task will be:
+- Visualize the locations of restaurants on a map using latitude and longitude information.
+- Analyze the distribution of restaurants across different cities or countries.
+- Determine if there is any correlation between the restaurant's location and its rating.
