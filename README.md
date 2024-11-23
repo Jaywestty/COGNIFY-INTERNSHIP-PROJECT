@@ -19,6 +19,7 @@ My third task will be:
 - Analyze the distribution of restaurants across different cities or countries.
 - Determine if there is any correlation between the restaurant's location and its rating.
 
+
 MY DATA SCIENCE PROJECT AT COGNIFYZ INTERNSHIP LEVEL 2 (FIRST TASK)
 In the level two of my internship, my first task would be :
 
