@@ -1,3 +1,5 @@
+PS: ci_df is meaning cognify internship dataframe.
+
 MY DATA SCIENCE PROJECT AT COGNIFYZ INTERNSHIP LEVEL 1 (FIRST TASK)
 In the level one of my internship, my first task would be :
 - Explore the dataset and identify the number of rows and columns.
@@ -16,3 +18,19 @@ My third task will be:
 - Visualize the locations of restaurants on a map using latitude and longitude information.
 - Analyze the distribution of restaurants across different cities or countries.
 - Determine if there is any correlation between the restaurant's location and its rating.
+
+MY DATA SCIENCE PROJECT AT COGNIFYZ INTERNSHIP LEVEL 2 (FIRST TASK)
+In the level two of my internship, my first task would be :
+
+- To Determine the percentage of restaurants that offer table booking and online delivery.
+- To Compare the average ratings of restaurants with table booking and those without.
+- Analyze the availability of online delivery among restaurants with different price ranges.
+
+My Second Task will be:
+- To Determine the most common price range among all the restaurants.
+- To Calculate the average rating for each price range.
+
+
+My Third Task will be:
+- Extract additional features from the existing columns, such as the length of the restaurant name or address.
+- Create new features like "Has Table Booking" or "Has Online Delivery" by encoding categorical variables.
