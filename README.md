@@ -35,3 +35,8 @@ My Second Task will be:
 My Third Task will be:
 - Extract additional features from the existing columns, such as the length of the restaurant name or address.
 - Create new features like "Has Table Booking" or "Has Online Delivery" by encoding categorical variables.
+
+MY DATA SCIENCE PROJECT AT COGNIFYZ INTERNSHIP LEVEL 3 
+- Build a regression model to predict the aggregate rating of a restaurant based on available features.
+- Split the dataset into training and testing sets and evaluate the model's performance using appropriate metrics.
+- Experiment with different algorithms (e.g.,linear regression, decision trees, random forest) and compare their performance.
